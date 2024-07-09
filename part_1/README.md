@@ -1,6 +1,6 @@
 Part One:
 
-1. Once upon a time, in a far aawy land, there lived a young prince named Alexander.
+1. Once upon a time, in a far away land, there lived a young prince named Alexander.
 2. Alexander was known throughout the kingom for his kindnes and bravery.
 3. One day, while exploring the royal gardens, Alexander met a mysterius old woman.
 4. She had long, silver hair and a robe adorned with stange symbols.
