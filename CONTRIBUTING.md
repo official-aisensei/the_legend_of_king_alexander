@@ -65,14 +65,14 @@ git push origin your-branch-name
 Once your changes are pushed to your fork, you can create a pull request to merge them into the main repository.
 
 1. Go to the branches page of your forked repository.
-2. Click on menu options of the branch you created
+2. Click on menu options (3 dots) of the branch you created.
 3. Click on "New Pull Request" option.
 4. Select your fork and the branch you worked on.
 5. Provide a clear and descriptive title for the pull request.
 6. Describe the changes you made and the reason for the changes in detail.
 7. Link to any related issues using the \`#\` symbol followed by the issue number (e.g., \`Fixes #123\`).
 8. Click on the "Create Pull Request" button. 
-9. Add reviews
+9. Add reviewers
 
 ### 9. Respond to Feedback
 
