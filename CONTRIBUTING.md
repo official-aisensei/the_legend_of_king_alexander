@@ -27,7 +27,7 @@ To make changes to the codebase, you need to fork the repository.
 Clone your forked repository to your local machine.
 
 ```sh
-git https://github.com/official-aisensei/the_legend_of_king_alexander.git
+git clone https://github.com/{your-github-username}/the_legend_of_king_alexander.git
 cd the_legend_of_king_alexander
 ```
 
@@ -45,7 +45,7 @@ Make your changes to the codebase. Ensure that your code follows the project's c
 
 ### 6. Commit Your Changes
 
-Commit your changes with a meaningful commit message. If your commit fixes an issue, include the issue number in the commit message.
+Commit your changes with a meaningful commit message. If your commit fixes an issue, include the issue number in the commit message. for e.g.
 
 ```sh
 git add .
@@ -64,14 +64,15 @@ git push origin your-branch-name
 
 Once your changes are pushed to your fork, you can create a pull request to merge them into the main repository.
 
-1. Go to the [Pull Requests](https://github.com/yourusername/your-repo/pulls) page of the original repository.
-2. Click on the "New Pull Request" button.
-3. Select your fork and the branch you worked on.
-4. Provide a clear and descriptive title for the pull request.
-5. Describe the changes you made and the reason for the changes in detail.
-6. Link to any related issues using the \`#\` symbol followed by the issue number (e.g., \`Fixes #123\`).
-7. Click on the "Create Pull Request" button.
-8. Add reviews
+1. Go to the branches page of your forked repository.
+2. Click on menu options of the branch you created
+3. Click on "New Pull Request" option.
+4. Select your fork and the branch you worked on.
+5. Provide a clear and descriptive title for the pull request.
+6. Describe the changes you made and the reason for the changes in detail.
+7. Link to any related issues using the \`#\` symbol followed by the issue number (e.g., \`Fixes #123\`).
+8. Click on the "Create Pull Request" button. 
+9. Add reviews
 
 ### 9. Respond to Feedback
 
