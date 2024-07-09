@@ -72,7 +72,7 @@ Once your changes are pushed to your fork, you can create a pull request to merg
 6. Describe the changes you made and the reason for the changes in detail.
 7. Link to any related issues using the \`#\` symbol followed by the issue number (e.g., \`Fixes #123\`).
 8. Click on the "Create Pull Request" button. 
-9. Add reviewers
+9. Request review from reviewers
 
 ### 9. Respond to Feedback
 
