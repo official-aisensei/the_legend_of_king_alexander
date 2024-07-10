@@ -10,7 +10,7 @@ Before you start, please make sure to read the [contribution guide](https://gith
 Happy typo hunting!
 
 
-### How to Contribute
+### Common commands
 
 ```shell
 git clone https://github.com/official-aisensei/the_legend_of_king_alexander.git
