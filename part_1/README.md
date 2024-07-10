@@ -1,7 +1,7 @@
 Part One:
 
 1. Once upon a time, in a far away land, there lived a young prince named Alexander.
-2. Alexander was known throughout the kingom for his kindnes and bravery.
+2. Alexander was known throughout the kingdom for his kindness and bravery.
 3. One day, while exploring the royal gardens, Alexander met a mysterius old woman.
 4. She had long, silver hair and a robe adorned with stange symbols.
 5. The woman approached Alexander and said, "You have a great dessiny ahead of you, young prince."
