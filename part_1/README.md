@@ -1,13 +1,13 @@
 Part One:
 
 1. Once upon a time, in a far away land, there lived a young prince named Alexander.
-2. Alexander was known throughout the kingom for his kindnes and bravery.
+2. Alexander was known throughout the kingdom for his kindness and bravery.
 3. One day, while exploring the royal gardens, Alexander met a mysterius old woman.
 4. She had long, silver hair and a robe adorned with stange symbols.
 5. The woman approached Alexander and said, "You have a great dessiny ahead of you, young prince."
 6. Curious, Alexander asked, "What do you mean?"
 7. The woman smiled and replied, "You must embark on a journey to find the lost Jewel of Happines.
-8. It will bring peace and prospperity to your land."
+8. It will bring peace and prosperity to your land."
 9. Determined to help his peple, Alexander set off on his quest the very next morning.
 10. He travlled through dense forests, climbed treacherous mountains, and crossed vast deserts.
 11. Along the way, he encountered many challnges.
@@ -41,6 +41,6 @@ Part One:
 39. The Jewel of Happines brought peace and prosperrity to the land, and everyone lived happily ever after.
 40. Alexander was praised for his bravery and kindness, and Oliver was celebrated as a loyal friend and guide.
 41. Together, they proved that with courage, determination, and a pure heart, anything is possible.
-42. And so, the story of Alexander and Oliver's quest for the Jewel of Happines became a legend that was told for generations to come.
+42. And so, the story of Alexander and Oliver's quest for the Jewel of Happiness became a legend that was told for generations to come.
 
 The end.
