@@ -10,9 +10,9 @@ Part One:
 8. It will bring peace and prospperity to your land."
 9. Determined to help his peple, Alexander set off on his quest the very next morning.
 10. He travlled through dense forests, climbed treacherous mountains, and crossed vast deserts.
-11. Along the way, he encountered many challnges.
+11. Along the way, he encountered many challenges.
 12. He faced fierce creatures, treacherous paths, and harsh weather.
-13. But with his courgae and determination, Alexander overcame each obstcle.
+13. But with his courage and determination, Alexander overcame each obstcle.
 14. One night, while resting by a campfire, Alexander was joined by a talking bird.
 15. The bird introdced itself as Oliver and offered to guide Alexander on his journey.
 16. Grateful for the company, Alexander accepted Oliver's help.
